@@ -8,7 +8,7 @@ To access, navigate to the SRC folder, run the file named src.js
 
 In the terminal, nodemon src.js
 
-Once the port is running and open in the browser, you can now use the application.
+Once the port (port is 6060) is running and open in the browser, you can now use the application.
 
 Enter a movie and list of similar movies will be generated. 
 
